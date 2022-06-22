@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @randallpaiva
 - 👀 I’m interested in Developing new Trends of Software Engineering
 - 🌱 I’m currently learning Flutter for Android & iOS.
-- 💞️ I’m looking to collaborate on Engineering Projects
+- 💞️ I’m looking to collaborate on App Development Projects
 - 📫 How to reach me via email: randallpaiva@live.com/ call: +675 76538068
 
 <!---
